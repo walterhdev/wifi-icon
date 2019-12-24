@@ -5,4 +5,4 @@
 `yay -S libappindicator-gtk3 clang`
 
 ## Issues
-[ ] still doens't show up in sway 
+* [ ] still doens't show up in sway 
